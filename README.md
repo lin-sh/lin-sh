@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neil</h1>
 <h3 align="center">A passionate coder from China</h3>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 **C9 Bachelor/C9 Master**
 
